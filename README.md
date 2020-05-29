@@ -49,3 +49,4 @@ Thanks [JetBrains](https://www.jetbrains.com/idea/download/) for providing our d
 ## Wiki
 
 Check out the [OpenOSRS wiki to learn more](https://github.com/open-osrs/runelite/wiki)
+"# OPRS" 
