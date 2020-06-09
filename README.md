@@ -51,3 +51,6 @@ Thanks [JetBrains](https://www.jetbrains.com/idea/download/) for providing our d
 
 Check out the [OpenOSRS wiki to learn more](https://github.com/open-osrs/runelite/wiki)
 "# OPRS" 
+
+getting started
+https://github.com/open-osrs/runelite/wiki/Building-with-IntelliJ-IDEA
